@@ -32,3 +32,5 @@ The knight has been placed in front of a shopping center.
 # Execution Notes
 Runs have been done on my local machine. Unless caused by other issues, I had some issues getting it to work with some versions of gradio.
 I finally installed 4.25.0 and that worked for me.
+
+History is on [github](https://github.com/jpaw/nd608/tree/main/project3-inpainting)
